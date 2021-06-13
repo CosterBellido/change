@@ -57,4 +57,6 @@ let diccionario = {
 
 diccionario["corto"](2)
 
-
+variable.forEach(elemento => {
+    console.log("variable")
+});
